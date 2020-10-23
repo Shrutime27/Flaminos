@@ -1,0 +1,136 @@
+
+.bodytxt{
+  font-family: 'Ubuntu',sans-serif;
+}
+
+img{
+  width: 70%;
+}
+.h1font{
+  font-size: 3rem;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 50px;
+  padding-left: 80px;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+p{
+  color: #a6a6a4;
+}
+
+#header{
+  color: #eeecda;
+  text-align: center;
+  background: url("../images/close-up-1854245_1920.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment:scroll ;
+}
+.navbar{
+  background: url("../images/red2.jpg");
+  /* background-repeat: no-repeat; */
+  /* background-position: center center; */
+  /* overflow: hidden;
+position: fixed;
+top: 0;
+width: 100%; */
+}
+.navbar-brand{
+font-family:'Ubuntu' ;
+font-size: 3rem;
+font-weight: bold;
+margin-left: 60px;
+}
+.nav-link{
+  margin-right: 50px;
+}
+.order-btn{
+
+  margin: 70px ;
+}
+
+.imaget{
+  padding-top: 20px;
+  margin-left: 70px;
+  margin-bottom: 30px;
+}
+
+/* feature section */
+#feature{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+
+}
+.icon{
+  color: #d63447;
+}
+.icon:hover{
+  color: #bfdcae;
+}
+/* prise section */
+#Priceing{
+  padding: 7% 15%;
+  background:url("../images/red2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment:scroll ;
+  text-align: center;
+
+}
+.pricing-col{
+  padding: 3% 2%;
+  text-align: center;
+
+}
+
+  #order{
+    padding: 7% 15%;
+    text-align: center;
+
+  }
+.order-txt{
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+.order-icn{
+  color: #fca652;
+  margin: 10px;
+}
+ .order-btn-2{
+  background-color: #fca652;
+}
+
+#footer{
+  padding: 6% 15%;
+  text-align: center;
+  background-color: #bfdcae;
+}
+.footer-icon{
+  margin:20px;
+  color: #fff;
+}
+.footer-icon:hover{
+  color: #a6a6a4;
+}
+.footer-font{
+  font-size: 1.5rem;
+  color:#a6a6a4;
+}
+.footer-ic{
+  color:#a6a6a4; 
+}
